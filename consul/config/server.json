@@ -1,0 +1,11 @@
+{
+    "ui": true,
+    "dns_config": {
+        "allow_stale": false
+    },
+    "server": true,
+    "enable_debug": true,
+    "bootstrap_expect": 1,
+    "client_addr": "0.0.0.0",
+    "datacenter": "net"
+}
